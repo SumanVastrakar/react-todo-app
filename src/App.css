@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+}
+.todoAddinput{
+  width:500px;
+  margin:auto;
+  font-size:20px;
+  font-weight: 900;
+}
+.todoAdd{
+  margin:auto;
+  text-align: center;
+  margin-top:10px;
+}
+*{
+  font-family: 'Bree Serif', serif;
+ 
+}
+.Todocontainer{
+  box-shadow: rgba(198, 174, 174, 0.90) 0px 5px 15px;
+  border-radius: 10px;;
+  width:40%;
+  height:80vh;
+  margin-top: 4%;
+}
+.todoheading{
+  margin-top: 20px;
+  font-weight: 900;
+}
+.formedInput{
+  font-size:20px;
+  font-weight: 900;
+}
+.todoStyle{
+  display:flex;
+}
+.textTodelete{
+  margin-left: 30px;
+}
+body{
+  background-image: url("https://wallpaper.dog/large/5502830.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  list-style-type: none;
+  color:white;
+}
+.delete{
+ cursor: pointer;
+}
+.Deleteimg{
+  width:40px;
+  height:40px;
+}
